@@ -3,6 +3,7 @@
 # TODO List
 
 > An advanced Todo List web application built with pure JS, HTML & CSS 
+> This todo list will only be used for code review purposes. The main code can be found [here](https://blessedjasonmwanza.github.io/todo-list)
 
 ## Built With
 
